@@ -24,3 +24,12 @@ $ chmod +x ./cloc-1.88.pl
 $ chmod +x ./cxgithubcount.sh
 $ ./cxgithubcount.sh
 </pre>
+
+# Output example
+
+<pre>
+$ cat results.csv
+Repo,Languages,Count
+DSVW,Python,93
+bodgeit,JSP / Java / JavaScript,1983
+</pre>
